@@ -1,0 +1,5 @@
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ShapeObject\bin\Debug\ShapeObject.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ShapeObject\bin\Debug\ShapeObject.pdb
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ShapeObject\obj\Debug\ShapeObject.csprojResolveAssemblyReference.cache
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ShapeObject\obj\Debug\ShapeObject.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ShapeObject\obj\Debug\ShapeObject.pdb

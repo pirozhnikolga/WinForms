@@ -1,0 +1,24 @@
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ProjectCSharpAndWinforms.exe.config
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ProjectCSharpAndWinforms.exe
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ProjectCSharpAndWinforms.pdb
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\en-US\ProjectCSharpAndWinforms.resources.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ru-RU\ProjectCSharpAndWinforms.resources.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.csprojResolveAssemblyReference.cache
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.Form1.resources
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.Properties.Resources.resources
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.Form1.en-US.resources
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.Form1.ru-RU.resources
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.csproj.GenerateResource.Cache
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\en-US\ProjectCSharpAndWinforms.resources.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ru-RU\ProjectCSharpAndWinforms.resources.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.exe
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.pdb
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ShapeObject.dll
+C:\Users\park3\Desktop\PirozhnikDZ\MORNING\C-sharp\WinForms\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ShapeObject.pdb
+C:\Users\park3\Desktop\на GIT\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ProjectCSharpAndWinforms.exe.config
+C:\Users\park3\Desktop\на GIT\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.exe
+C:\Users\park3\Desktop\на GIT\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.pdb
+C:\Users\park3\Desktop\Projects\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\bin\Debug\ProjectCSharpAndWinforms.exe.config
+C:\Users\park3\Desktop\Projects\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.exe
+C:\Users\park3\Desktop\Projects\ProjectCSharpAndWinforms\ProjectCSharpAndWinforms\obj\Debug\ProjectCSharpAndWinforms.pdb
